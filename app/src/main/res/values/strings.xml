@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS403</string>
+
+        <string name="hello_world">Hello world!</string>
+        <string name="menu_settings">Settings</string>
+        <string name="title_activity_basic_text_view">Basic TextView</string>
+
+        <!-- Usernames -->
+        <string name="gpcorser">George Corser</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>

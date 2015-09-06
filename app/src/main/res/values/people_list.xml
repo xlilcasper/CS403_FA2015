@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chapters">
+        <item>- George Corser -</item>  <!-- gpcorser -->
+        <item>Komal Afzal</item>        <!-- kafzal -->
+        <item>Alejandro Arenas</item>   <!-- adarenas -->
+        <item>Brian Cobb</item>         <!-- bjcobb -->
+        <item>Philip Essenmacher</item> <!-- pjessenm -->
+        <item>Gerald Henderson</item>   <!-- gxhender -->
+        <item>Tyler Kosaski</item>      <!-- tskosask-->
+        <item>Richard Megerle</item>    <!-- rtmegerl -->
+        <item>Tyler Metiva</item>       <!-- tpmetiv1 -->
+        <item>Zach Metiva</item>        <!-- zmmetiva -->
+        <item>Adam Pero</item>          <!-- alpero -->
+        <item>Michael Roof</item>       <!-- mdroof -->
+        <item>Joshua Walters</item>     <!-- jmwalter -->
+        <item>Nathan Whitfield</item>   <!-- ntwhitfi -->
+        <item>Andrew York</item>        <!-- amyork -->
+    </string-array>
+
+    <!-- Lessons per username -->
+    <string-array name="gpcorser">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="kafzal">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="adarenas">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="bjcobb">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="pjessenm">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="gxhenderson">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="tskosask">
+        <item>Linear Layout Demo</item>
+    </string-array>
+
+    <string-array name="rtmegerl">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="tpmetiv1">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="zmmetiva">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="alpero">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="mdroof">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="jmwalter">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="ntwhitfi">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="amyork">
+        <item>Basic TextView</item>
+    </string-array>
+    <!--******************************************************-->
+
+    <string-array name="chap1">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap2">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap3">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap4">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap5">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap6">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap7">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap8">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap9">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap10">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap11">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap12">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap13">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap14">
+        <item>Lesson 1</item>
+    </string-array>
+    <string-array name="chap15">
+        <item>Lesson 1</item>
+    </string-array>
+</resources>
