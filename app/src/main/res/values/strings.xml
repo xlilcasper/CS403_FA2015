@@ -3,11 +3,23 @@
 
         <string name="hello_world">Hello world!</string>
         <string name="menu_settings">Settings</string>
-        <string name="title_activity_basic_text_view">Basic TextView</string>
 
         <!-- Usernames -->
         <string name="gpcorser">George Corser</string>
+        <string name="kafzal">Komal Afzal</string>   <!-- kafzal -->
+        <string name="adarenas">Alejandro Arenas</string>   <!-- adarenas -->
+        <string name="bjcobb">Brian Cobb</string>   <!-- bjcobb -->
+        <string name="pjessenm">Philip Essenmacher</string>   <!-- pjessenm -->
+        <string name="gxhender">Gerald Henderson</string>   <!-- gxhender -->
+        <string name="tskosask">Tyler Kosaski</string>   <!-- tskosask-->
+        <string name="rtmegerl">Richard Megerle</string>   <!-- rtmegerl -->
+        <string name="tpmetiv1">Tyler Metiva</string>   <!-- tpmetiv1 -->
+        <string name="zmmetiva">Zach Metiva</string>   <!-- zmmetiva -->
+        <string name="alpero">Adam Pero</string>   <!-- alpero -->
+        <string name="mdroof">Michael Roof</string>   <!-- mdroof -->
+        <string name="jmwalter">Joshua Walters</string>   <!-- jmwalter -->
+        <string name="ntwhitfi">Nathan Whitfield</string>   <!-- ntwhitfi -->
+        <string name="amyork">Andrew York</string>   <!-- amyork -->
 
-
-    <string name="action_settings">Settings</string>
+        <string name="action_settings">Settings</string>
 </resources>

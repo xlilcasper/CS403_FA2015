@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Usernames">
+        <attr name="usernames" format="enum">
+            <enum name="gpcorser" value="1"/>   <!-- gpcorser -->
+            <enum name="kafzal" value="2"/>   <!-- kafzal -->
+            <enum name="adarenas" value="3"/>   <!-- adarenas -->
+            <enum name="bjcobb" value="4"/>   <!-- bjcobb -->
+            <enum name="pjessenm" value="5"/>   <!-- pjessenm -->
+            <enum name="gxhender" value="6"/>   <!-- gxhender -->
+            <enum name="tskosask" value="7"/>   <!-- tskosask-->
+            <enum name="rtmegerl" value="8"/>   <!-- rtmegerl -->
+            <enum name="tpmetiv1" value="9"/>   <!-- tpmetiv1 -->
+            <enum name="zmmetiva" value="10"/>   <!-- zmmetiva -->
+            <enum name="alpero" value="11"/>   <!-- alpero -->
+            <enum name="mdroof" value="12"/>   <!-- mdroof -->
+            <enum name="jmwalter" value="13"/>   <!-- jmwalter -->
+            <enum name="ntwhitfi" value="14"/>   <!-- ntwhitfi -->
+            <enum name="amyork" value="15"/>   <!-- amyork -->
+        </attr>
+    </declare-styleable>
+</resources>

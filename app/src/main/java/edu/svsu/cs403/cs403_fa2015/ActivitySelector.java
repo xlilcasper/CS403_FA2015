@@ -63,7 +63,10 @@ public class ActivitySelector extends AppCompatActivity {
             super();
             exercises = new String[chapters.length][];
             for (int i=0; i < exercises.length; i++) {
-                int resId = getResources().getIdentifier("chap" + (i+1), "array", getPackageName());
+                //int resId = getResources().getIdentifier("chap" + (i+1), "array", getPackageName());
+                String student = (Username.values()[i]).name();
+                int resId = getResources().getIdentifier(student, "array", getPackageName());
+                //resId = Username.values()[i + 1]).name();
                 exercises[i] = getResources().getStringArray(resId);
             }
         }
@@ -133,9 +136,36 @@ public class ActivitySelector extends AppCompatActivity {
         }
 
         public Class<? extends Activity> getExerciseClass(int groupPosition, int childPosition, long id) {
-            String exerciseId = "chap" + (groupPosition + 1) + "ex" + (childPosition + 1);
+            String exerciseId = "act" + (groupPosition + 1) + "ex" + (childPosition + 1);
+            exerciseId = (Username.values()[groupPosition]).name() + (childPosition + 1);
             return ExerciseActivityMapper.getExerciseClass(exerciseId);
         }
     }
 
+    //Enumeration of student's username to a interger value
+    public enum Username {
+        gpcorser(0),
+        kafzal(1),
+        adarenas(2),
+        bjcobb(3),
+        pjessenm(4),
+        gxhender(5),
+        tskosask(6),
+        rtmegerl(7),
+        tpmetiv1(8),
+        zmmetiva(9),
+        alpero(10),
+        mdroof(11),
+        jmwalter(12),
+        ntwhitfi(13),
+        amyork(14);
+
+        private int intValue;
+        private Username(int value) {
+            intValue = value;
+        }
+        public int toInt(){
+            return intValue;
+        }
+    }
 }
