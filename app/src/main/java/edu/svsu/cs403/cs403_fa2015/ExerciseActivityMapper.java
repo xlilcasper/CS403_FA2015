@@ -29,6 +29,7 @@ public class ExerciseActivityMapper {
 
         //Declare your Java classes here
         exerciseClassMap.put("gpcorser1", gpcorser.class);
+        exerciseClassMap.put("bjcobb1", bjcobb_chap1.class);
     }
 }
 

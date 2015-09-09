@@ -12,7 +12,6 @@
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -21,6 +20,10 @@
         <activity
             android:name=".gpcorser"
             android:label="@string/gpcorser">
+        </activity>
+        <activity
+            android:name=".bjcobb_chap1"
+            android:label="@string/bjcobb">
         </activity>
 
 
